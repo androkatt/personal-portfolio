@@ -18,6 +18,7 @@ const Stack = () => {
         <li>Git</li>
         <li>Figma</li>
         <li>Visual Studio Code</li>
+        <li>Adobe Creative Suite</li>
       </ol>
     </React.Fragment>
   );
